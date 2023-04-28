@@ -7,7 +7,7 @@
 
 ### **CheckPoints**
 
-Day 1 : 
+#### Day 1 : 
 - [IBM DL Day 1 - Hacksh4w's Copy](https://github.com/subru-37/IBM-Workshop/blob/main/IBM-DLWS-hackshaw.ipynb)
 - [IBM DL Day 1 - Subru's Copy](https://github.com/subru-37/IBM-Workshop/blob/main/IBM-Workshop.ipynb)
 
@@ -18,7 +18,7 @@ Day 1 :
  - [Naive Baye's Classification](https://github.com/subru-37/IBM-Workshop/blob/main/Naive%20Bayes%20Classifier.ipynb)
   
   
-Day 2 : 
+#### Day 2 : 
 
 - [IBM DL Day 2 - Hacksh4w's Copy](https://github.com/subru-37/IBM-Workshop/blob/main/IBM-D2DLWS-hacksh4w.ipynb)
 - [IBM DL Day 2 - Subru's Copy](https://github.com/subru-37/IBM-Workshop/blob/main/Day2Workshop.ipynb)
