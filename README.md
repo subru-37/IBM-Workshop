@@ -3,7 +3,8 @@
 ### Resource Person's :
 1. [Dr. Bindu Krishnan](https://www.linkedin.com/in/dr-bindu-krishnan-3a972972/)
 2. [Mr. Rahuldas M](https://www.linkedin.com/in/rahuldas-m-46749b124/)
-3. 
+
+
 ## **Note-Taker's** 
 1. [Mrinalini Nair Ani](https://github.com/hacksh4w/)
 1. [Subramani E](https://github.com/subru-37)
