@@ -1,4 +1,4 @@
-# **<div align="center"> IBM Workshop </div>**  
+# **<div align="center"> IBM Deep Learning Workshop </div>**
 
 
 ## **Note-Taker's** 
