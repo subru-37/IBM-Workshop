@@ -1,7 +1,7 @@
 # **<div align="center"> IBM Workshop </div>**  
 
 
-### **Note-Taker's** 
+## **Note-Taker's** 
 1. [Mrinalini Nair Ani](https://github.com/hacksh4w/)
 1. [Subramani E](https://github.com/subru-37)
 
@@ -26,6 +26,6 @@
   - [Neural Networks Problem's](https://github.com/subru-37/IBM-Workshop/blob/main/Simple%20Neural%20Network%20.ipynb)
 
 
-Tech Required : 
-Tools: Jupyter Notebooks/Lab (installed via Anaconda) 
-Languages & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Theon, Keras, Opencv, and TensorFlow.
+### Tech Required : 
+#### Tools: Jupyter Notebooks/Lab (installed via Anaconda) 
+#### Languages & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Theon, Keras, Opencv, and TensorFlow.
